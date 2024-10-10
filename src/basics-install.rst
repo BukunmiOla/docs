@@ -36,10 +36,13 @@ We also recommend installing both :ref:`ODK-X Survey<survey-using>` and :ref:`OD
 Installing Services
 --------------------------------
 
-  1. From your device's :guilabel:`Settings`, choose :menuselection:`Apps & notifications`. (On older versions of Android, this setting may be in :menuselection:`Applications` or :menuselection:`Security` depending upon your Android version.)
-
+  1. Allow APK installation from your preferred browser
+    - From your device's :guilabel:`Settings`, choose :menuselection:`Apps & notifications`. (On older versions of Android, this setting may be in :menuselection:`Applications` or :menuselection:`Security` depending upon your Android version.)
     - Go to :guilabel:`Special app access` in :guilabel:`Advanced` and choose :guilabel:`Install unknown apps`.
-    - From the list of applications, select a browser of your choice and check :guilabel:`Allow from this source`.
+    .. tip::
+      You can also search: "Install unknown apps" using the search bar from your device's :guilabel:`Settings` and choose :guilabel:`Install unknown apps`.
+     
+    - From the list of applications, select your preferred browser and check :guilabel:`Allow from this source`.
     - (On older versions of Android, the above two steps are not required; ensure installation from *Unknown Sources* is checked.)
 
   2. Open the same web browser that you authorized to install unknown apps on your Android device. (For older versions of Android, any web browser can be used since you do not need to specifically authorize the web browser's ability to install.)
@@ -62,10 +65,13 @@ Installing Services
 Installing the `ODK-X Survey <https://docs.odk-x.org/survey-using/>`_ App
 ----------------------------------------------------------------------------
 
-  1.  From your device's :guilabel:`Settings`, choose :menuselection:`Apps & notifications`. (On older versions of Android, this setting may be in :menuselection:`Applications` or :menuselection:`Security` depending upon your Android version.)
-
+  1. Allow APK installation from your preferred browser
+    - From your device's :guilabel:`Settings`, choose :menuselection:`Apps & notifications`. (On older versions of Android, this setting may be in :menuselection:`Applications` or :menuselection:`Security` depending upon your Android version.)
     - Go to :guilabel:`Special app access` in :guilabel:`Advanced` and choose :guilabel:`Install unknown apps`.
-    - From the list of applications, select a browser of your choice and check :guilabel:`Allow from this source`.
+    .. tip::
+      You can also search: "Install unknown apps" using the search bar from your device's :guilabel:`Settings` and choose :guilabel:`Install unknown apps`.
+
+    - From the list of applications, select your preferred browser and check :guilabel:`Allow from this source`.
     - (On older versions of Android, the above two steps are not required; ensure installation from *Unknown Sources* is checked.)
     
   2. Open the same web browser that you authorized to install unknown apps on your Android device. (For older versions of Android, any web browser can be used since you do not need to specifically authorize the web browser's ability to install.)
@@ -90,10 +96,13 @@ Installing the ODK-X Tables App
 -----------------------------------
 
 
-  1.  From your device's :guilabel:`Settings`, choose :menuselection:`Apps & notifications`. (On older versions of Android, this setting may be in :menuselection:`Applications` or :menuselection:`Security` depending upon your Android version.)
-
+  1. Allow APK installation from your preferred browser
+    - From your device's :guilabel:`Settings`, choose :menuselection:`Apps & notifications`. (On older versions of Android, this setting may be in :menuselection:`Applications` or :menuselection:`Security` depending upon your Android version.)
     - Go to :guilabel:`Special app access` in :guilabel:`Advanced` and choose :guilabel:`Install unknown apps`.
-    - From the list of applications, select a browser of your choice and check :guilabel:`Allow from this source`.
+    .. tip::
+      You can also search: "Install unknown apps" using the search bar from your device's :guilabel:`Settings` and choose :guilabel:`Install unknown apps`.
+
+    - From the list of applications, select your preferred browser and check :guilabel:`Allow from this source`.
     - (On older versions of Android, the above two steps are not required; ensure installation from *Unknown Sources* is checked.)
     
   2. Open the same web browser that you authorized to install unknown apps on your Android device. (For older versions of Android, any web browser can be used since you do not need to specifically authorize the web browser's ability to install.)
